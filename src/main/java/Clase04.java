@@ -7,7 +7,7 @@ public class Clase04 {
         Scanner  scanner = new Scanner(System.in);
         System.out.println("Digite el nombre completo");
         String nombre = scanner.next();
-     //   System.out.println("Digite genero F:femenino, M:maculino, O:otro ");
+     //   System.out.println("Digite genero F:femenino, M:maculino, o:otro ");
 //        char genero = (char) scanner.next();
         scanner.close();
 
