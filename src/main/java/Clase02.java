@@ -5,6 +5,7 @@ public class Clase02 {
 
         Scanner scanner = new Scanner(System.in);
         System.out.println("Digite el valor en pesos para convertir en dolar");
+
         double peso = scanner.nextDouble();
         System.out.println("EL valor en dolares es " +peso/4000);
 
